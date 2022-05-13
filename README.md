@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CioBacs
 - 👀 I’m interested in System Administration
 - 🌱 I’m currently learning DevOps specialized in Docker and Kubernetes
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m using this hub as repository for testing my competence in writing scripts, some code and some testing apps.
 - 📫 How to reach me ...
 
 <!---
